@@ -2,6 +2,7 @@ ___
 layout: slide
 
 title: "Welcome to the second slide!"
-___
+> "Teamwork makes the dreamwork"
+__
 
 Commit a file and follow rules of Commit 101 - Done
